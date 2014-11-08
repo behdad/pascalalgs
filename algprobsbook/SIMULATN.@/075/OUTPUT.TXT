@@ -1,0 +1,17 @@
+Machine #1:
+ Starts job #3 of project #1 at time 12.7
+ Starts job #5 of project #1 at time 17.6
+ Starts job #2 of project #1 at time 22.9
+ Starts job #1 of project #1 at time 24.5
+ Starts job #2 of project #2 at time 29.6
+ Starts job #1 of project #2 at time 31.2
+
+Machine #2:
+ Starts job #4 of project #1 at time 12.7
+ Starts job #3 of project #2 at time 19.4
+ Starts job #5 of project #2 at time 24.3
+
+Machine #3:
+ Starts job #4 of project #2 at time 19.4
+
+35.4

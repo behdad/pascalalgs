@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Graph Algorithms}{1}
+\contentsline {subsection}{\numberline {1.1}Minimum Weight Spanning Tree - Prim Algorithm}{1}
+\contentsline {subsection}{\numberline {1.2}Single Source Shortest Path - Dijkstra Algorithm}{2}
+\contentsline {subsection}{\numberline {1.3}Single Source Shortest Path - BellmanFord Algorithm}{3}
+\contentsline {subsection}{\numberline {1.4}Cutting Edges - DFS Method}{4}
+\contentsline {subsection}{\numberline {1.5}Cutting Vertices - DFS Method}{5}
+\contentsline {subsection}{\numberline {1.6}BiConnected Components - DFS Method}{6}
+\contentsline {subsection}{\numberline {1.7}Strongly Connected Components - DFS Method}{8}
+\contentsline {subsection}{\numberline {1.8}Eulerian Tour - Flory Algorithm}{9}
+\contentsline {subsection}{\numberline {1.9}Minimum Average Weigth Cycle - Karp Algorithm}{11}
+\contentsline {subsection}{\numberline {1.10}Bipartite Maximum Matching - Augmenting Path Method}{13}
+\contentsline {subsection}{\numberline {1.11}Bipartite Maximum Independent Set - Matching Method}{14}
+\contentsline {subsection}{\numberline {1.12}Maximum Weighted Bipartite Matching - Hungarian Algorithm}{16}
+\contentsline {subsection}{\numberline {1.13}Maximum Network Flow - FordFulkerson Algorithm}{18}
+\contentsline {subsection}{\numberline {1.14}Maximum Network Flow - LiftToFront Algorithm}{19}
+\contentsline {subsection}{\numberline {1.15}Perfect Matching - Augmenting Path Method}{21}
+\contentsline {section}{\numberline {2}Planar Graph Algorithms}{23}
+\contentsline {subsection}{\numberline {2.1}Graph Planarity Check - Demoucron-Malgrange Algorithm}{23}
+\contentsline {subsection}{\numberline {2.2}Faces Of Planar Graph - Greedy Algorithm}{27}
+\contentsline {subsection}{\numberline {2.3}Sort Edges Of Planar Graph - Quick Sort}{29}
+\contentsline {section}{\numberline {3}Linear Equations}{31}
+\contentsline {subsection}{\numberline {3.1}2Satisfiability Problem - Dfs Method}{31}
+\contentsline {subsection}{\numberline {3.2}System of Linear Equations - Deletion Method}{32}
+\contentsline {section}{\numberline {4}String Functions}{34}
+\contentsline {subsection}{\numberline {4.1}SubString Matching - First Match - KMP Algorithm}{34}
+\contentsline {subsection}{\numberline {4.2}SubString Matching - All Matches - KMP Algorithm}{35}
+\contentsline {section}{\numberline {5}Sorting And Searching}{37}
+\contentsline {subsection}{\numberline {5.1}Quick Sort - Static Median}{37}
+\contentsline {subsection}{\numberline {5.2}Heap Sort (ADT) - NonRecursive Methods}{38}
+\contentsline {subsection}{\numberline {5.3}Binary Search - NonRecursive}{40}
+\contentsline {section}{\numberline {6}Data Structors}{41}
+\contentsline {subsection}{\numberline {6.1}Union-Find ADT - Simple Unions}{41}
+\contentsline {subsection}{\numberline {6.2}Huge Integer Numbers - Library}{42}
+\contentsline {section}{\numberline {7}Computational Geometry}{47}
+\contentsline {subsection}{\numberline {7.1}Convex Hull - Jordan Gift Wrapping Algorithm}{47}
+\contentsline {subsection}{\numberline {7.2}Computational Geometry - Library}{49}

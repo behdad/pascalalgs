@@ -1,0 +1,74 @@
+\documentclass{article}
+\title{Computer Science Fundamental Algorithms}
+\author{The Space Cats Team\\Sharif University of Technology\\Tehran, Iran}
+% Increase printable page size (copied from fullpage.sty)
+\topmargin -0.5in
+\advance \topmargin by -\headheight
+\advance \topmargin by -\headsep
+     
+\textheight 10.2in
+     
+\oddsidemargin 0pt
+\evensidemargin \oddsidemargin
+\marginparwidth 0.5in
+     
+% Style parameters and macros used by most documents here
+\raggedbottom
+\sloppy
+\parindent =       0mm
+\parskip =         2mm
+
+\textwidth 6.5in
+\oddsidemargin 0.2in
+\def\baselinestretch{0.8}
+\def\pascal#1#2#3{
+  \subsection{#2 - #3}
+  \par\tt\small
+  \begin{verbatim}
+    \input{#1.pas}
+  \newpage
+}
+\begin{document}
+\pagenumbering{roman}
+\maketitle
+\tableofcontents
+\newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\section{Graph Algorithms}
+\pascal{minstree}{Minimum Weight Spanning Tree}{Prim Algorithm}\end{verbatim}
+\pascal{ssspdijk}{Single Source Shortest Path}{Dijkstra Algorithm}\end{verbatim}
+\pascal{ssspbell}{Single Source Shortest Path}{BellmanFord Algorithm}\end{verbatim}
+\pascal{cutedges}{Cutting Edges}{DFS Method}\end{verbatim}
+\pascal{cutvertx}{Cutting Vertices}{DFS Method}\end{verbatim}
+\pascal{biconnec}{BiConnected Components}{DFS Method}\end{verbatim}
+\pascal{stconnec}{Strongly Connected Components}{DFS Method}\end{verbatim}
+\pascal{eulerian}{Eulerian Tour}{Flory Algorithm}\end{verbatim}
+\pascal{minawcyc}{Minimum Average Weigth Cycle}{Karp Algorithm}\end{verbatim}
+\pascal{bipmatch}{Bipartite Maximum Matching}{Augmenting Path Method}\end{verbatim}
+\pascal{bipindpn}{Bipartite Maximum Independent Set}{Matching Method}\end{verbatim}
+\pascal{wegtmatc}{Maximum Weighted Bipartite Matching}{Hungarian Algorithm}\end{verbatim}
+\pascal{maxflow1}{Maximum Network Flow}{FordFulkerson Algorithm}\end{verbatim}
+\pascal{maxflow2}{Maximum Network Flow}{LiftToFront Algorithm}\end{verbatim}
+\pascal{permatch}{Perfect Matching}{Augmenting Path Method}\end{verbatim}
+\section{Planar Graph Algorithms}
+\pascal{isplanar}{Graph Planarity Check}{Demoucron-Malgrange Algorithm}\end{verbatim}
+\pascal{faces}{Faces Of Planar Graph}{Greedy Algorithm}\end{verbatim}
+\pascal{sortedge}{Sort Edges Of Planar Graph}{Quick Sort}\end{verbatim}
+\section{Linear Equations}
+\pascal{twosat}{2Satisfiability Problem}{Dfs Method}\end{verbatim}
+\pascal{equation}{System of Linear Equations}{Deletion Method}\end{verbatim}
+\section{String Functions}
+\pascal{strmatc1}{SubString Matching - First Match}{KMP Algorithm}\end{verbatim}
+\pascal{strmatc2}{SubString Matching - All Matches}{KMP Algorithm}\end{verbatim}
+\section{Sorting And Searching}
+\pascal{qsort}{Quick Sort}{Static Median}\end{verbatim}
+\pascal{heapsort}{Heap Sort (ADT)}{NonRecursive Methods}\end{verbatim}
+\pascal{bsearch}{Binary Search}{NonRecursive}\end{verbatim}
+\section{Data Structors}
+\pascal{uninfind}{Union-Find ADT}{Simple Unions}\end{verbatim}
+\pascal{numunit}{Huge Integer Numbers}{Library}\end{verbatim}
+\section{Computational Geometry}
+\pascal{cnvxhull}{Convex Hull}{Jordan Gift Wrapping Algorithm}\end{verbatim}
+\pascal{geomunit}{Computational Geometry}{Library}\end{verbatim}
+\end{document}

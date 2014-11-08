@@ -1,0 +1,4 @@
+The minimum number of experiments = 3
+Experiment #1: 1, 3, 5
+Experiment #2: 2, 3
+Experiment #3: 4, 5

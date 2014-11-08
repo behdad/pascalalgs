@@ -1,0 +1,2 @@
+A minimum valid set is: 1, 5
+Total weight = 14

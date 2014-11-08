@@ -1,0 +1,2 @@
+Is serial-parallel
+0.33
